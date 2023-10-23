@@ -1,0 +1,22 @@
+#bulb {
+    width: 21rem;
+    height: 32.2rem;
+}
+
+#btn {
+    scale: 1.7;
+    border-radius: 10px;
+    background-color: rgb(177, 177, 214);
+}
+
+.img_div {
+    height: 75%;
+    text-align: center;
+    
+}
+
+.btn_div {
+    height: 25%;
+    text-align: center;
+
+}
